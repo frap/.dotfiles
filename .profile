@@ -1,1 +1,1 @@
-/Users/agasson/.config/bash/profile
+./.config/bash/profile
